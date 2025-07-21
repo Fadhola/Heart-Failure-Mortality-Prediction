@@ -1,0 +1,2 @@
+URL Dataset https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+dan URL deployment https://huggingface.co/spaces/fadhol/hearth-failure-death-proba-prediction
